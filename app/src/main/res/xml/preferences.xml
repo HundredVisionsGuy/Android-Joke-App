@@ -8,5 +8,8 @@
         android:key="last"
         android:title="Last Name"
         android:defaultValue="@string/last" />
+    <EditTextPreference
+        key="joke_type"
+        android:defaultValue="@string/default_joke_type"
 
 </PreferenceScreen>
