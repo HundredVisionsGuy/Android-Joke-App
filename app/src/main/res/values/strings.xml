@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JokeApp</string>
+    <string name="button_text">Get Joke</string>
+    <string name="no_joke_found">No joke found</string>
+    <string name="first">Chris</string>
+    <string name="last">Winikka</string>
+    <string name="get_joke">Get Joke</string>
+    <string name="settings">Settings</string>
+</resources>
