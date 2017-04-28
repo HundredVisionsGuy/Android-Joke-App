@@ -6,5 +6,10 @@
     <string name="last">The Chicken</string>
     <string name="get_joke">Get Joke</string>
     <string name="settings">Settings</string>
+    <string name="joke_type_nerdy">nerdy</string>
+    <string name="joke_type_explicit">explicit</string>
+    <string name="joke_type_chuck">chuck norris</string>
+    <string name="joke_type_bruce">bruce schneier</string>
     <string name="default_joke_type">nerdy</string>
+    <string name="pick_joke_type">Pick a Joke Type</string>
 </resources>
